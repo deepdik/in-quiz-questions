@@ -5,7 +5,7 @@ Python Assessment
 - An abstract class is the name for any class from which you can instantiate an object.
 - Abstract classes must be redefined any time an object is instantiated from them 
 - Abstract classes must inherit from concrete classes.
-- An abstract class exists only so that other "concrete" classes can inherit from the abstract class.
+- An abstract class exists only so that other "concrete" classes can inherit from the abstract class. // CORRECT
 
 #### Q2. What happens when you use the build-in function "any()" on a list?
 - The "any()" function will randomly return any item from the list.
